@@ -1,5 +1,7 @@
 # OakCore - EARLY BETA RELEASE
 
+[![Join the chat at https://gitter.im/DarkLotus/OakCore](https://badges.gitter.im/DarkLotus/OakCore.svg)](https://gitter.im/DarkLotus/OakCore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **HOW TO INSTALL AND USE THIS:** http://digistump.com/wiki/oak/tutorials/arduino
 
 **PLEASE FILE ISSUES FOR BUGS:** with as much detail as possible!
